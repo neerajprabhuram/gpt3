@@ -2,7 +2,7 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 2rem 6rem;
+  padding: 2rem 4rem;
 }
 
 .gpt3__navbar-links {
@@ -16,8 +16,9 @@
   margin-right: 2rem;
 }
 .gpt3__navbar-links_logo img {
-  width: 62px;
-  height: 16px;
+  width: 90;
+  height: 22px;
+  margin-right: 1rem;
 }
 
 .gpt3__navbar-links_container {
@@ -104,8 +105,8 @@
     display: flex;
   }
 
-  .gpt3__navbar-sign{
-      margin-right: 1rem;
+  .gpt3__navbar-sign {
+    margin-right: 1rem;
   }
 }
 
