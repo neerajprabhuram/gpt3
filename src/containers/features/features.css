@@ -5,6 +5,7 @@
   flex-direction: row;
   padding-top: 5rem;
 }
+
 .gpt3__features-heading {
   flex: 1;
   display: flex;
@@ -51,6 +52,10 @@
 }
 
 @media screen and (max-width:550px) {
+    .gpt3__features {
+        padding-top: 1rem;
+    }
+
     .gpt3__features-heading h1{
         font-size: 28px;
         line-height: 38px;
