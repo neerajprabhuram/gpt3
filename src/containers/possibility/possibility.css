@@ -34,6 +34,8 @@
 
 .gpt3__possibility-content h4:last-child{
     color: var(--color-subtext);
+    text-decoration: underline;
+    text-underline-offset: 4px;
 }
 
 .gpt3__possibility-content h1{
